@@ -9,10 +9,10 @@
   </a>
 </p>
 
-[![GitHub repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code-Master-1110-PGH/AI-Powered-Personal-Productivity-Suite)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.style?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![GitHub](https://img.shields.io/badge/View%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Code-Master-1110-PGH/AI-Powered-Personal-Productivity-Suite)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Build Status](https://img.shields.io/badge/Build-Passing-10B981?style=for-the-badge&logo=checkmarx&logoColor=white)]()
-[![Test Coverage](https://img.shields.io/badge/Pytest-10%2F10%20Passed-00F0FF?style=for-the-badge&logo=pytest&logoColor=white)]()
+[![Tests](https://img.shields.io/badge/Pytest-10%2F10%20Passed-00F0FF?style=for-the-badge&logo=pytest&logoColor=white)]()
 
 <br />
 
